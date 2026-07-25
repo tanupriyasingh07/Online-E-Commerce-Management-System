@@ -41,7 +41,7 @@ This project demonstrates the implementation of the **MVC Architecture**, databa
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
